@@ -1,0 +1,290 @@
+
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest",
+  "@type": "sc:Manifest",
+  "label": "Test Top Ranges",
+  "sequences": [
+    {
+      "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/sequence/normal",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/canvas/0g354f655",
+          "@type": "sc:Canvas",
+          "label": "Upper cover. outside",
+          "images": [
+            {
+              "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/annotation/0g354f655-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://libimages1.princeton.edu/loris/plum/0g%2F35%2F4f%2F65%2F5-intermediate_file.jp2/full/!600,600/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 5332,
+                "height": 7200,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://libimages1.princeton.edu/loris/plum/0g%2F35%2F4f%2F65%2F5-intermediate_file.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/canvas/0g354f655"
+            }
+          ],
+          "width": 5332,
+          "height": 7200,
+          "otherContent": [
+            {
+              "@id": "https://hydra-dev.princeton.edu/concern/container/f7623d04x/file_sets/0g354f655/text",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this Page"
+            }
+          ]
+        },
+        {
+          "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/canvas/j9602098h",
+          "@type": "sc:Canvas",
+          "label": "Upper cover. inside",
+          "images": [
+            {
+              "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/annotation/j9602098h-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://libimages1.princeton.edu/loris/plum/j9%2F60%2F20%2F98%2Fh-intermediate_file.jp2/full/!600,600/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 5005,
+                "height": 7200,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://libimages1.princeton.edu/loris/plum/j9%2F60%2F20%2F98%2Fh-intermediate_file.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/canvas/j9602098h"
+            }
+          ],
+          "width": 5005,
+          "height": 7200,
+          "otherContent": [
+            {
+              "@id": "https://hydra-dev.princeton.edu/concern/container/f7623d04x/file_sets/j9602098h/text",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this Page"
+            }
+          ]
+        },
+        {
+          "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/canvas/h415pb10b",
+          "@type": "sc:Canvas",
+          "label": "Lower cover. inside",
+          "images": [
+            {
+              "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/annotation/h415pb10b-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://libimages1.princeton.edu/loris/plum/h4%2F15%2Fpb%2F10%2Fb-intermediate_file.jp2/full/!600,600/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 5292,
+                "height": 7200,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://libimages1.princeton.edu/loris/plum/h4%2F15%2Fpb%2F10%2Fb-intermediate_file.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/canvas/h415pb10b"
+            }
+          ],
+          "width": 5292,
+          "height": 7200,
+          "otherContent": [
+            {
+              "@id": "https://hydra-dev.princeton.edu/concern/container/f7623d04x/file_sets/h415pb10b/text",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this Page"
+            }
+          ]
+        },
+        {
+          "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/canvas/5999n378r",
+          "@type": "sc:Canvas",
+          "label": "Lower cover. outside",
+          "images": [
+            {
+              "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/annotation/5999n378r-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://libimages1.princeton.edu/loris/plum/59%2F99%2Fn3%2F78%2Fr-intermediate_file.jp2/full/!600,600/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 5519,
+                "height": 7200,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://libimages1.princeton.edu/loris/plum/59%2F99%2Fn3%2F78%2Fr-intermediate_file.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/canvas/5999n378r"
+            }
+          ],
+          "width": 5519,
+          "height": 7200,
+          "otherContent": [
+            {
+              "@id": "https://hydra-dev.princeton.edu/concern/container/f7623d04x/file_sets/5999n378r/text",
+              "@type": "sc:AnnotationList",
+              "label": "Text of this Page"
+            }
+          ]
+        }
+      ],
+      "viewingHint": "individuals",
+      "rendering": {
+        "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/pdf/gray",
+        "label": "Download as PDF",
+        "format": "application/pdf"
+      }
+    }
+  ],
+  "structures": [
+    {
+      "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/range/g69924734574460",
+      "@type": "sc:Range",
+      "label": "Upper Cover",
+      "viewingHint": "top",
+      "ranges": [
+        {
+          "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/range/g69924734988320",
+          "@type": "sc:Range",
+          "label": "Outside",
+          "canvases": [
+            "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/canvas/0g354f655"
+          ]
+        },
+        {
+          "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/range/g69924734988320",
+          "@type": "sc:Range",
+          "label": "Inside",
+          "canvases": [
+            "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/canvas/j9602098h"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/range/g69924734574460",
+      "@type": "sc:Range",
+      "label": "Lower Cover",
+      "viewingHint": "top",
+      "ranges": [
+        {
+          "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/range/g69924734988320",
+          "@type": "sc:Range",
+          "label": "Inside",
+          "canvases": [
+            "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/canvas/h415pb10b"
+          ]
+        },
+        {
+          "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/range/g69924734988320",
+          "@type": "sc:Range",
+          "label": "Outside",
+          "canvases": [
+            "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/canvas/5999n378r"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": "Creator",
+      "value": [
+        "جلدكي، ايدمر بن عبد الله",
+        "Jaldakī, Aydamar ibn ʻAbd Allāh, active 1349-1361"
+      ]
+    },
+    {
+      "label": "Publisher",
+      "value": [
+        "[14--?]"
+      ]
+    },
+    {
+      "label": "Date created",
+      "value": [
+        "1400-1499"
+      ]
+    },
+    {
+      "label": "Subject",
+      "value": [
+        "Ibn Umayl, Muḥammad, active 10th century. Risālat al-Shams ilá al-Hilāl.",
+        "Alchemy—Arab countries—Early works to 1800",
+        "Manuscripts, Arabic—New Jersey—Princeton",
+        "Ibn Umayl, Muḥammad, active 10th century. Māʼ al-waraqī wa-al-arḍ al-najmīyah"
+      ]
+    },
+    {
+      "label": "Language",
+      "value": [
+        "Arabic"
+      ]
+    },
+    {
+      "label": "Identifier",
+      "value": "ark:/88435/p5547r43n"
+    },
+    {
+      "label": "Replaces",
+      "value": [
+        "pudl0032/48b"
+      ]
+    },
+    {
+      "label": "Format",
+      "value": [
+        "Book",
+        "Manuscript"
+      ]
+    },
+    {
+      "label": "Extent",
+      "value": [
+        "77 leaves : paper ; 203 x 142 (130 x 85) mm. bound to 220 x 150 mm."
+      ]
+    },
+    {
+      "label": "Author",
+      "value": [
+        "Jaldakī, Aydamar ibn ʻAbd Allāh, active 1349-1361"
+      ]
+    },
+    {
+      "label": "Collection",
+      "value": [
+        "Islamic Manuscripts"
+      ]
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://libimages1.princeton.edu/loris/plum/0g%2F35%2F4f%2F65%2F5-intermediate_file.jp2/full/!200,150/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://libimages1.princeton.edu/loris/plum/0g%2F35%2F4f%2F65%2F5-intermediate_file.jp2",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "seeAlso": {
+    "@id": "https://bibdata.princeton.edu/bibliographic/4746714/jsonld",
+    "format": "application/ld+json"
+  }
+}
