@@ -170,7 +170,7 @@
           ]
         },
         {
-          "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/range/g69924734988320",
+          "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/range/g69924734988321",
           "@type": "sc:Range",
           "label": "Inside",
           "canvases": [
@@ -186,7 +186,7 @@
       "viewingHint": "top",
       "ranges": [
         {
-          "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/range/g69924734988320",
+          "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/range/g69924734988322",
           "@type": "sc:Range",
           "label": "Inside",
           "canvases": [
@@ -194,7 +194,7 @@
           ]
         },
         {
-          "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/range/g69924734988320",
+          "@id": "https://hydra-dev.princeton.edu/concern/scanned_resources/f7623d04x/manifest/range/g69924734988323",
           "@type": "sc:Range",
           "label": "Outside",
           "canvases": [
