@@ -31,7 +31,7 @@
         {
             "@context": "http://universalviewer.io/context.json",
             "@id": "http://universalviewer.io/service/print/",
-            "profile": "http://universalviewer.io/print-profile"
+            "profile": "http://universalviewer.io/print-extensions-profile"
         }
     ],
 	"sequences": [{
