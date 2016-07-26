@@ -28,11 +28,11 @@
 		"label": "View at the British Library"
 	}],
     "service": [
-        {
-            "@context": "http://universalviewer.io/context.json",
-            "@id": "http://universalviewer.io/service/print/",
-            "profile": "http://universalviewer.io/print-extensions-profile"
-        }
+    {
+        "@context": "http://universalviewer.io/context.json",
+        "@id": "http://universalviewer.io/service/print/",
+        "profile": "http://universalviewer.io/print-extensions-profile"
+    }
     ],
 	"sequences": [{
 		"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000001",
