@@ -33,6 +33,13 @@
 		"label": "Current Page Order",
 		"viewingDirection": "left-to-right",
 		"viewingHint": "paged",
+		"rendering": [
+			{
+				"@id": "http://wellcomelibrary.org/pdf/b18035723/0/b18035723_0.pdf",
+				"format": "application/pdf",
+				"label": "Download as PDF"
+			}
+		],
 		"canvases": [{
 			"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000002",
 			"@type": "sc:Canvas",
