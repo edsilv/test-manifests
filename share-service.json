@@ -782,24 +782,5 @@
 				"label": "METS-ALTO XML"
 			}
 		}]
-	}],
-	"service": [{
-		"@context": "http://iiif.io/api/search/0/context.json",
-		"@id": "http://api.bl.uk/search/iiif/ark:/81055/vdc_100022545251.0x000002",
-		"profile": "http://iiif.io/api/search/0/search",
-		"label": "Search within this manifest",
-		"service": {
-			"@id": "http://api.bl.uk/search/iiif/ark:/81055/vdc_100022545251.0x000002/autocomplete",
-			"profile": "http://iiif.io/api/search/0/autocomplete",
-			"label": "Get suggested words in this manifest"
-		}
-	}, {
-		"@context": "http://universalviewer.io/context.json",
-		"@id": "http://access.bl.uk/item/print/vdc_100022545251.0x000002",
-		"profile": "http://universalviewer.io/print-extensions-profile"
-	}, {
-		"@context": "http://universalviewer.io/context.json",
-		"@id": "http://access.bl.uk/item/feedback/vdc_100022545251.0x000002",
-		"profile": "http://universalviewer.io/feedback-extensions-profile"
 	}]
 }
