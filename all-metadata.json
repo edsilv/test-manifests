@@ -115,6 +115,19 @@
                                     "@language": "fr"
                                 }
                             ]
+                        },
+                        {
+                            "label": "Attribution",
+                            "value": [
+                                {
+                                    "@value": "Wellcome Library",
+                                    "@language": "en"
+                                },
+                                {
+                                    "@value": "Wellcome Library",
+                                    "@language": "fr"
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://thumbs.dlcs.io/thumbs/wellcome/1/ff2085d5-a9c7-412e-9dbe-dda87712228d/full/73,100/0/default.jpg",
@@ -183,6 +196,19 @@
                                 },
                                 {
                                     "@value": "Toile 2 Titre",
+                                    "@language": "fr"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Attribution",
+                            "value": [
+                                {
+                                    "@value": "Wellcome Library",
+                                    "@language": "en"
+                                },
+                                {
+                                    "@value": "Wellcome Library",
                                     "@language": "fr"
                                 }
                             ]
