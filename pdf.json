@@ -49,7 +49,7 @@
       ],
       "elements": [
         {
-          "@id": "http://edsilv.github.io/test-manifests/MarketplaceOpenEnrollmentNotice.pdf",
+          "@id": "http://universalviewer.io.s3.amazonaws.com/pdf/MarketplaceOpenEnrollmentNotice.pdf",
           "format": "application\/pdf",
           "@type": "foaf:Document",
           "label": "Credit_Card_Authorization_Jennifer.pdf",
