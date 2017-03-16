@@ -49,17 +49,10 @@
       ],
       "elements": [
         {
-          "@id": "http:\/\/localhost:3000\/downloads\/v692t621m?file=accessMaster",
+          "@id": "http://edsilv.github.io/test-manifests/MarketplaceOpenEnrollmentNotice.pdf",
           "format": "application\/pdf",
           "@type": "foaf:Document",
           "label": "Credit_Card_Authorization_Jennifer.pdf",
-          "rendering": [
-            {
-              "@id": "http:\/\/localhost:3000\/downloads\/v692t621m?file=accessMaster",
-              "format": "application\/pdf",
-              "label": "Credit_Card_Authorization_Jennifer.pdf"
-            }
-          ],
           "thumbnail": "http:\/\/localhost:3000\/downloads\/v692t621m?file=thumbnail"
         }
       ]
