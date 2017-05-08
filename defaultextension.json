@@ -22,6 +22,8 @@
                            "id":"http://tomcrane.github.io/scratch/manifests/3/pdf/anno1",
                            "type":"Annotation",
                            "motivation":"painting",
+                           "label": "Test docx",
+                           "thumbnail": "http://edsilv/github.io/test-manifests/assets/docx.jpg",
                            "body":{
                               "id":"http://edsilv/github.io/test-manifests/assets/test.docx",
                               "type":"Document",
@@ -33,6 +35,8 @@
                            "id":"http://tomcrane.github.io/scratch/manifests/3/pdf/anno2",
                            "type":"Annotation",
                            "motivation":"painting",
+                           "label": "Test epub",
+                           "thumbnail": "http://edsilv/github.io/test-manifests/assets/epub.png",
                            "body":{
                               "id":"http://edsilv/github.io/test-manifests/assets/test.epub",
                               "type":"Document",
