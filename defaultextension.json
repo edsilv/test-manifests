@@ -22,9 +22,9 @@
                            "id":"http://tomcrane.github.io/scratch/manifests/3/pdf/anno1",
                            "type":"Annotation",
                            "motivation":"painting",
-                           "thumbnail": "http://edsilv/github.io/test-manifests/assets/docx.jpg",
+                           "thumbnail": "http://edsilv.github.io/test-manifests/assets/docx.jpg",
                            "body":{
-                              "id":"http://edsilv/github.io/test-manifests/assets/test.docx",
+                              "id":"http://edsilv.github.io/test-manifests/assets/test.docx",
                               "type":"Document",
                               "format":"application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                               "label": "Test docx"
@@ -35,9 +35,9 @@
                            "id":"http://tomcrane.github.io/scratch/manifests/3/pdf/anno2",
                            "type":"Annotation",
                            "motivation":"painting",
-                           "thumbnail": "http://edsilv/github.io/test-manifests/assets/epub.png",
+                           "thumbnail": "http://edsilv.github.io/test-manifests/assets/epub.png",
                            "body":{
-                              "id":"http://edsilv/github.io/test-manifests/assets/test.epub",
+                              "id":"http://edsilv.github.io/test-manifests/assets/test.epub",
                               "type":"Document",
                               "format":"application/epub+zip",
                               "label": "Test epub"
