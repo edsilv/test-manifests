@@ -22,7 +22,7 @@
                                     "motivation": "painting",
                                     "body": {
                                         "id": "https://dlcs.io/file/wellcome/1/caf18956-8f79-4fe6-8988-af329b036416",
-                                        "type": "PhysicalObject",
+                                        "type": "PDF",
                                         "format": "application/pdf",
                                         "label": "Science and the Public"
                                     },

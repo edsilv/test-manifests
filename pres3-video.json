@@ -22,7 +22,7 @@
                                     "motivation": "painting",
                                     "body": {
                                         "id": "https://dlcs.io/iiif-av/wellcome/1/aa12ea51-8746-4f67-92dc-acc3aad56e28/full/full/max/max/0/default.mp4#identity",
-                                        "type": "PhysicalObject",
+                                        "type": "Video",
                                         "format": "video/mp4",
                                         "label": "The story of the Wellcome Foundation Ltd."
                                     },
