@@ -23,7 +23,7 @@
                                     "body": {
                                         "id": "https://dlcs.io/file/wellcome/1/caf18956-8f79-4fe6-8988-af329b036416",
                                         "type": "PhysicalObject",
-                                        "format": "video/mp4",
+                                        "format": "application/pdf",
                                         "label": "Science and the Public"
                                     },
                                     "target": "http://edsilv.github.io/test-manifests/pres3-pdf.json/canvas/0"
