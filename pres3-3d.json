@@ -24,7 +24,7 @@
                                         "id": "https://ipfs.io/ipfs/QmTgD8jbaZp992LmvU2ofD4aTMNJXq1Kv7i3xb9MMz3yNn/hc941fm6529/hc941fm6529.json",
                                         "type": "PhysicalObject",
                                         "format": "application/vnd.threejs+json",
-                                        "label": "Vertebra"
+                                        "label": "hc941fm6529"
                                     },
                                     "target": "http://edsilv.github.io/test-manifests/pres3-3d.json/canvas/0"
                                 }
