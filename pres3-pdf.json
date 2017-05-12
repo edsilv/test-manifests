@@ -1,0 +1,38 @@
+{
+    "id": "http://edsilv.github.io/test-manifests/pres3-pdf.json",
+    "type": "Manifest",
+    "label": "hc941fm6529",
+    "description": "Vertebra",
+    "attribution": "Stanford University",
+    "sequences": [
+        {
+            "type": "Sequence",
+            "canvases": [
+                {
+                    "id": "http://edsilv.github.io/test-manifests/pres3-pdf.json/canvas/0",
+                    "type": "Canvas",
+                    "content": [
+                        {
+                            "id": "http://edsilv.github.io/test-manifests/pres3-pdf.json/annotationpage/0",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "http://edsilv.github.io/test-manifests/pres3-pdf.json/annotation/0",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "id": "https://dlcs.io/file/wellcome/1/caf18956-8f79-4fe6-8988-af329b036416",
+                                        "type": "PhysicalObject",
+                                        "format": "video/mp4",
+                                        "label": "Science and the Public"
+                                    },
+                                    "target": "http://edsilv.github.io/test-manifests/pres3-pdf.json/canvas/0"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
