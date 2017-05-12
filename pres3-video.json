@@ -2,8 +2,7 @@
     "id": "http://edsilv.github.io/test-manifests/pres3-video.json",
     "type": "Manifest",
     "label": "hc941fm6529",
-    "description": "Vertebra",
-    "attribution": "Stanford University",
+    "attribution": "Wellcome Library",
     "sequences": [
         {
             "type": "Sequence",
@@ -20,6 +19,7 @@
                                     "id": "http://edsilv.github.io/test-manifests/pres3-video.json/annotation/0",
                                     "type": "Annotation",
                                     "motivation": "painting",
+                                    "thumbnail": "https://wellcomelibrary.org/posterimages/0055-0000-3664-0000-0-0000-0000-0.jpg",
                                     "body": {
                                         "id": "https://dlcs.io/iiif-av/wellcome/1/aa12ea51-8746-4f67-92dc-acc3aad56e28/full/full/max/max/0/default.mp4#identity",
                                         "type": "Video",

@@ -2,8 +2,7 @@
     "id": "http://edsilv.github.io/test-manifests/pres3-pdf.json",
     "type": "Manifest",
     "label": "hc941fm6529",
-    "description": "Vertebra",
-    "attribution": "Stanford University",
+    "attribution": "Wellcome Library",
     "sequences": [
         {
             "type": "Sequence",
