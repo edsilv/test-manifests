@@ -27,7 +27,8 @@
                               "id":"http://edsilv.github.io/test-manifests/assets/test.docx",
                               "type":"Document",
                               "format":"application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-                              "label": "Test docx"
+                              "label": "Test docx",
+                              "description": "2.35kb"
                            },
                            "target":"http://tomcrane.github.io/scratch/manifests/3/canvas/99"
                         },                        
@@ -40,7 +41,8 @@
                               "id":"http://edsilv.github.io/test-manifests/assets/test.epub",
                               "type":"Document",
                               "format":"application/epub+zip",
-                              "label": "Test epub"
+                              "label": "Test epub",
+                              "description": "3.89kb"
                            },
                            "target":"http://tomcrane.github.io/scratch/manifests/3/canvas/99"
                         }
