@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "https://iiifauth.digtest.co.uk/manifest/11_kitty_joyner", 
+  "@type": "sc:Manifest", 
+  "label": "Degraded", 
+  "metadata": [
+    {
+      "label": "Note", 
+      "value": "The client will detect the redirect. maxWidth enforced on degraded version, not on live version."
+    }
+  ], 
+  "sequences": [
+    {
+      "@id": "https://iiifauth.digtest.co.uk/manifest/11_kitty_joyner/sequence", 
+      "@type": "sc:Sequence", 
+      "canvases": [
+        {
+          "@id": "https://iiifauth.digtest.co.uk/canvases/11_kitty_joyner", 
+          "@type": "sc:Canvas", 
+          "height": 3000, 
+          "images": [
+            {
+              "@id": "https://iiifauth.digtest.co.uk/image-annos/11_kitty_joyner.jpg", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://iiifauth.digtest.co.uk/canvases/11_kitty_joyner", 
+              "resource": {
+                "@id": "https://iiifauth.digtest.co.uk/img/11_kitty_joyner.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://iiifauth.digtest.co.uk/img/11_kitty_joyner.jpg", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ], 
+          "label": " - ", 
+          "width": 2400
+        },
+        {
+          "@id": "https://iiifauth.digtest.co.uk/canvases/11_kitty_joyner2", 
+          "@type": "sc:Canvas", 
+          "height": 3000, 
+          "images": [
+            {
+              "@id": "https://iiifauth.digtest.co.uk/image-annos/11_kitty_joyner.jpg", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://iiifauth.digtest.co.uk/canvases/11_kitty_joyner2", 
+              "resource": {
+                "@id": "https://iiifauth.digtest.co.uk/img/11_kitty_joyner.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://iiifauth.digtest.co.uk/img/11_kitty_joyner.jpg", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ], 
+          "label": " - ", 
+          "width": 2400
+        }
+      ], 
+      "label": "Sequence s0"
+    }
+  ]
+}
