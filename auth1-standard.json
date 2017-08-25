@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "https://iiifauth.digtest.co.uk/manifest/01_standard-login", 
+  "@type": "sc:Manifest", 
+  "label": "Standard login", 
+  "metadata": [
+    {
+      "label": "Note", 
+      "value": "This interaction pattern assumes the user can interact with something in the opened window"
+    }
+  ], 
+  "sequences": [
+    {
+      "@id": "https://iiifauth.digtest.co.uk/manifest/01_standard-login/sequence", 
+      "@type": "sc:Sequence", 
+      "canvases": [
+        {
+          "@id": "https://iiifauth.digtest.co.uk/canvases/01_Icarus", 
+          "@type": "sc:Canvas", 
+          "height": 3393, 
+          "images": [
+            {
+              "@id": "https://iiifauth.digtest.co.uk/image-annos/01_Icarus_Breughel.jpg", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://iiifauth.digtest.co.uk/canvases/01_Icarus", 
+              "resource": {
+                "@id": "https://iiifauth.digtest.co.uk/img/01_Icarus_Breughel.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://iiifauth.digtest.co.uk/img/01_Icarus_Breughel.jpg", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ], 
+          "label": " - ", 
+          "width": 5200
+        },
+        {
+          "@id": "https://iiifauth.digtest.co.uk/canvases/01_Icarus2", 
+          "@type": "sc:Canvas", 
+          "height": 3393, 
+          "images": [
+            {
+              "@id": "https://iiifauth.digtest.co.uk/image-annos/01_Icarus_Breughel.jpg", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://iiifauth.digtest.co.uk/canvases/01_Icarus2", 
+              "resource": {
+                "@id": "https://iiifauth.digtest.co.uk/img/01_Icarus_Breughel.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://iiifauth.digtest.co.uk/img/01_Icarus_Breughel.jpg", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ], 
+          "label": " - ", 
+          "width": 5200
+        }
+      ], 
+      "label": "Sequence s0"
+    }
+  ]
+}
