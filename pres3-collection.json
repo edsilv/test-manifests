@@ -1,6 +1,6 @@
 {
     "id": "https://edsilv.github.io/test-manifests/pres3-collection",
-    "type": "sc:Collection",
+    "type": "Collection",
     "label": "Example Collection",
     "members": [
       {
