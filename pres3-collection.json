@@ -1,0 +1,26 @@
+{
+    "id": "https://edsilv.github.io/test-manifests/pres3-collection",
+    "type": "sc:Collection",
+    "label": "Example Collection",
+    "members": [
+      {
+        "id": "http://wellcomelibrary.org/iiif/b18035978/manifest",
+        "type": "Manifest",
+        "label": "Biocrats"
+      },
+      {
+        "id": "http://digital.library.villanova.edu/Collection/vudl:3/IIIF",
+        "type": "Collection",
+        "label": "Villanova root-level collection"
+      }
+    ],
+    "metadata": [
+      {
+        "label": "Exhibit",
+        "value": [
+          "example-collection"
+        ]
+      }
+    ]
+  }
+  
