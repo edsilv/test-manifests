@@ -1,6 +1,7 @@
 {
     "id": "https://edsilv.github.io/test-manifests/pres3-collection.json",
     "type": "Collection",
+    "label": "Presentation 3 Examples",
     "members": [
         {
             "id": "https://edsilv.github.io/test-manifests/pres3-3d.json",

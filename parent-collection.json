@@ -1,6 +1,7 @@
 {
     "id": "https://edsilv.github.io/test-manifests/parent-collection.json",
     "type": "Collection",
+    "label": "Parent Collection",
     "members": [
         {
             "id": "https://edsilv.github.io/test-manifests/pres3-collection.json",
