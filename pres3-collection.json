@@ -1,18 +1,18 @@
 {
-    "id": "http://tomcrane.github.io/scratch/manifests/3/collection.json",
+    "id": "http://edsilv.github.io/test-manifests/pres3-collection.json",
     "type": "Collection",
     "members": [
         {
-            "id": "http://tomcrane.github.io/scratch/manifests/3/av-basic.json",
-            "type": "Manifest"
+            "id": "http://edsilv.github.io/test-manifests/pres3-3d.json",
+            "type": "3D"
         },
         {
-            "id": "http://tomcrane.github.io/scratch/manifests/3/pdf.json",
-            "type": "Manifest"
+            "id": "http://edsilv.github.io/test-manifests/pres3-pdf.json",
+            "type": "PDF"
         },
         {
-            "id": "http://tomcrane.github.io/scratch/manifests/3/3d.json",
-            "type": "Manifest"
+            "id": "http://edsilv.github.io/test-manifests/pres3-video.json",
+            "type": "Video"
         }
     ]
 }
