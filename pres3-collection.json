@@ -4,15 +4,18 @@
     "members": [
         {
             "id": "https://edsilv.github.io/test-manifests/pres3-3d.json",
-            "type": "Manifest"
+            "type": "Manifest",
+            "label": "3D"
         },
         {
             "id": "https://edsilv.github.io/test-manifests/pres3-pdf.json",
-            "type": "Manifest"
+            "type": "Manifest",
+            "label": "PDF"
         },
         {
             "id": "https://edsilv.github.io/test-manifests/pres3-video.json",
-            "type": "Manifest"
+            "type": "Manifest",
+            "label": "Video"
         }
     ]
 }
