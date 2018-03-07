@@ -124,7 +124,16 @@
             "profile": "http://iiif.io/api/image/2/level1.json"
         }
     },
-    "attribution": "Llyfrgell Genedlaethol Cymru \u2013 The National Library of Wales",
+    "attribution": [
+        {
+            "@value": "English Attribution",
+            "@language": "en"
+        },
+        {
+            "@value": "Welsh Attribution",
+            "@language": "cy-GB"
+        }
+    ],
     "seeAlso": {
         "@id": "http://dams.llgc.org.uk/object/llgc-id:1319153",
         "format": "application/rdf+xml",
