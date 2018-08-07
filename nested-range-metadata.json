@@ -1,0 +1,57 @@
+
+{
+    "id": "https://edsilv.github.io/test-manifests/nested-range-metadata.json",
+    "label": { "en": [ "nested range metadata" ] },
+	"metadata": [
+	 	{
+	 	 	"label":{"en":["Title"]},
+	 	 	"value":{"en":["The title"]}
+	 	}
+	],
+    "logo":[
+        {
+            "id":"https://www.bl.uk/images/bl_logo_100.gif",
+            "type":"Image"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://edsilv.github.io/test-manifests/nested-range-metadata.json/canvas/0",
+            "label": "Test canvas",
+            "type": "Canvas"
+        }
+    ],            
+    "structures": [
+        {
+            "id": "https://edsilv.github.io/test-manifests/nested-range-metadata.json/range/0",
+            "label": { "en": [ "Top Range" ] },
+            "metadata": [
+                {
+                    "label":{"en":["Top Range Title"]},
+                    "value":{"en":["Top range"]}
+               }
+            ],
+            "items": [
+                {
+                    "id": "https://edsilv.github.io/test-manifests/nested-range-metadata.json/range/1",
+                    "label": { "en": [ "Range 2" ] },
+                    "items": [
+                        {
+                            "id": "https://edsilv.github.io/test-manifests/nested-range-metadata.json/canvas/0",
+                            "type": "Canvas"
+                        }
+                    ],
+	 	 	 	 	"metadata": [
+	 	 	 	 	 	{
+	 	 	 	 	 	 	"label":{"en":["Range 2 Title"]},
+	 	 	 	 	 	 	"value":{"en":["Second range"]}
+	 	 	 	 	 	}
+	 	 	 	 	],
+                    "type": "Range"
+                }
+            ],
+            "type": "Range"
+        }
+    ],
+    "type": "Manifest"
+}
