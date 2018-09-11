@@ -29,12 +29,6 @@
             ]
         },
         {
-            "label": "Title",
-            "value": [
-                "\u003cimg src=xx:x onerror=eval('\\x61ler\\x74(1)') /\u003e"
-            ]
-        },
-        {
             "label": "PDF Type",
             "value": [
                 "color"
