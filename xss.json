@@ -2,9 +2,6 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
     "@id": "https://figgy-staging.princeton.edu/concern/scanned_resources/f022b69d-f2b2-40c3-a34f-4d21af5be276/manifest",
-    "label": [
-        "\u003cimg src=xx:x onerror=eval('\\x61ler\\x74(1)') /\u003e"
-    ],
     "viewingHint": "individuals",
     "metadata": [
         {
