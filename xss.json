@@ -5,39 +5,9 @@
     "viewingHint": "individuals",
     "metadata": [
         {
-            "label": "Created At",
-            "value": [
-                "09/04/18 01:04:02 PM UTC"
-            ]
-        },
-        {
-            "label": "Updated At",
-            "value": [
-                "09/04/18 01:16:23 PM UTC"
-            ]
-        },
-        {
-            "label": "Depositor",
-            "value": [
-                "kc16"
-            ]
-        },
-        {
-            "label": "Identifier",
-            "value": [
-                "ark:/99999/fk41n9b24h"
-            ]
-        },
-        {
             "label": "Title",
             "value": [
                 "\u003cimg src=xx:x onerror=eval('\\x61ler\\x74(1)') /\u003e"
-            ]
-        },
-        {
-            "label": "PDF Type",
-            "value": [
-                "color"
             ]
         }
     ],
