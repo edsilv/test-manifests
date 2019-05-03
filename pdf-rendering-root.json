@@ -79,11 +79,16 @@
       }
     ],
     "rendering": [
-        {
-            "@id": "https://dlcs.io/pdf/wellcome/pdf-item/b18035723/0",
-            "format": "application/pdf",
-            "label": "Download as PDF"
-        }
+      {
+        "@id": "https://dlcs.io/pdf/wellcome/pdf-item/b18035723/0",
+        "format": "application/pdf",
+        "label": "Download as PDF"
+      },
+      {
+        "@id": "https://wellcomelibrary.org/service/fulltext/b18035723/0?raw=true",
+        "format": "text/plain",
+        "label": "Download raw text"
+      }
     ],
     "sequences": [
       {
