@@ -1,0 +1,713 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://localhost:8080/iiif/ALCH00001/manifest",
+  "@type": "sc:Manifest",
+  "label": "Propositions 1.",
+  "description": "From the Newton Project Catalogue: A 'Propositions': alchemical notes in Latin, c. 400 words, 3 pp. Apparently Newton's own formulations. B Miscellaneous notes on multiplication by solution and coagulation, mostly in Latin with some English, c. 2,000 words, 4 pp. Drawn from various (acknowledged) sources including Aristotle, Nicholas Flamel and Michael Maier [Mayer].",
+  "thumbnail": {
+    "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-1r",
+    "@type": "dctypes:Image"
+  },
+  "metadata": [
+    {
+      "label": "Repository",
+      "value": "King's College Library"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "http://localhost:8080/iiif/ALCH00001/manifest/sequence/only",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-1r",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-1r",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-1r-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-1r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-1r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-1r-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-1r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-1r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-1r-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-1r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-1r",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-1v",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-1v",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-1v-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-1v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-1v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-1v-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-1v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-1v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-1v-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-1v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-1v",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-2r",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-2r",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-2r-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-2r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-2r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-2r-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-2r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-2r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-2r-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-2r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-2r",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-2v",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-2v",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-2v-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-2v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-2v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-2v-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-2v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-2v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-2v-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-2v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-2v",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-3r",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-3r",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-3r-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-3r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-3r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-3r-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-3r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-3r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-3r-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-3r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-3r",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-3v",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-3v",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-3v-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-3v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-3v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-3v-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-3v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-3v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-3v-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-3v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-3v",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-4r",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-4r",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-4r-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-4r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-4r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-4r-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-4r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-4r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-4r-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-4r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-4r",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-4v",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-4v",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-4v-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-4v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-4v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-4v-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-4v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-4v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-4v-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-4v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-4v",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-5r",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-5r",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-5r-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-5r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-5r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-5r-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-5r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-5r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-5r-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-5r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-5r",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-5v",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-5v",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-5v-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-5v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-5v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-5v-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-5v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-5v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-5v-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-5v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-5v",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-6r",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-6r",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-6r-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-6r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-6r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-6r-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-6r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-6r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-6r-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-6r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-6r",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-6v",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-6v",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-6v-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-6v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-6v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-6v-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-6v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-6v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-6v-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-6v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-6v",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-7r",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-7r",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-7r-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-7r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-7r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-7r-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-7r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-7r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-7r-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-7r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-7r",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-7v",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-7v",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-7v-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-7v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-7v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-7v-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-7v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-7v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-7v-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-7v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-7v",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-8r",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-8r",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-8r-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-8r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-8r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-8r-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-8r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-8r",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-8r-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-8r",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-8r",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-8v",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3,
+          "width": 2,
+          "thumbnail": {
+            "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-8v",
+            "@type": "dctypes:Image"
+          },
+          "images": [
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-8v-thumbnail",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-8v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/thumbnail/ALCH00001-8v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-8v-large",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-8v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/large/ALCH00001-8v",
+                "@type": "dctypes:Image"
+              }
+            },
+            {
+              "@id": "http://localhost:8080/iiif/ALCH00001/manifest/annotation/folio-8v-screen",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:8080/iiif/ALCH00001/manifest/canvas/folio-8v",
+              "resource": {
+                "@id": "http://purl.dlib.indiana.edu/iudl/newton/screen/ALCH00001-8v",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
