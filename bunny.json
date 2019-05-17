@@ -30,7 +30,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://edsilv.github.io/test-manifests/assets/bunny.glb",
+                "id": "https://edsilv.github.io/test-manifests/assets/bunny.glb",
                 "type": "PhysicalObject",
                 "format": "model/gltf+json"
               },
