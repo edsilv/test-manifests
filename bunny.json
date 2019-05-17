@@ -1,0 +1,47 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Manifest",
+  "id": "http://localhost:3000/concern/media/4q77fr33m/manifest",
+  "label": {
+    "@none": [
+      "[Medical X-Ray Computed Tomography (CT)]"
+    ]
+  },
+  "metadata": null,
+  "rendering": [],
+  "items": [
+    {
+      "type": "Canvas",
+      "id": "http://localhost:3000/concern/media/4q77fr33m/manifest/canvas/pz50gw105",
+      "label": {
+        "@none": [
+          "bunny.gltf"
+        ]
+      },
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "http://localhost:3000/concern/media/4q77fr33m/manifest/canvas/pz50gw105/annotation_page/b64ed219-bd97-4a96-a4d0-47a58bc1d7e9",
+          "items": [
+            {
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://edsilv.github.io/test-manifests/assets/bunny.glb",
+                "type": "PhysicalObject",
+                "format": "model/gltf+json"
+              },
+              "target": "http://localhost:3000/concern/media/4q77fr33m/manifest/canvas/pz50gw105"
+            }
+          ]
+        }
+      ],
+      "width": null,
+      "height": null,
+      "duration": null
+    }
+  ]
+}
