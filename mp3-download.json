@@ -24,14 +24,7 @@
 			}
 		}
 	],
-	"rendering": [
-		{
-			"@id": "http://localhost:3000/downloads/92f8393c-c53c-4042-a75e-7e63598ad566/file/7d2aa7c7-2771-44fe-bfde-693f4600a41e",
-			"type": "Audio",
-			"label": "Download the mp3",
-			"format": "audio/mpeg"
-		}
-	],
+	"rendering": [],
 	"items": [
 		{
 			"type": "Canvas",
