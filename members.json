@@ -54,18 +54,8 @@
       "label": "Volume 1"
     },
     {
-      "@id": "http://wellcomelibrary.org/iiif/b18031511-1/manifest",
-      "@type": "sc:Manifest",
-      "label": "Volume 2"
-    },
-    {
       "label": "Americana",
       "@id": "https://digital.library.villanova.edu/Collection/vudl:14572/IIIF",
-      "@type": "sc:Collection"
-    },
-    {
-      "label": "Autographed Books Collection",
-      "@id": "https://digital.library.villanova.edu/Collection/vudl:2426/IIIF",
       "@type": "sc:Collection"
     }
   ]
