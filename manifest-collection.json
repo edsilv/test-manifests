@@ -1,0 +1,22 @@
+
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://edsilv.github.com/test-manifests/manifest-collection",
+    "@type": "sc:Collection",
+    "label": [
+      "Manifest and Collection"
+    ],
+    "members": [
+      {
+        "@type": "sc:Manifest",
+        "@id": "http://wellcomelibrary.org/iiif/b18035723/manifest",
+        "label": "Wunder Der Vererbung"
+      },
+      {
+        "@id": "http://wellcomelibrary.org/iiif/collection/b18031511",
+        "@type": "sc:Collection",
+        "label": "Biological Basis of Medicine"
+      }
+    ]
+  }
+  
