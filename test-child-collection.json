@@ -10,7 +10,7 @@
     ],
     "collections": [
         {
-            "@id": "https://test-manifests.netlify.com/manifest-collection.json",
+            "@id": "https://test-manifests.netlify.com/manifest.json",
             "@type": "sc:Collection",
             "label": {
                 "@language": "en",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "@id": "https://test-manifests.netlify.com/manifest-collection.json",
+            "@id": "https://test-manifests.netlify.com/manifest.json",
             "@type": "sc:Collection",
             "label": {
                 "@language": "en",
