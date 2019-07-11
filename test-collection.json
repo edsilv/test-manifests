@@ -8,12 +8,6 @@
     ],
     "members": [
           {
-            "@type": "sc:Collection",
-            "@id": "https://test-manifests.netlify.com/test-child-collection1.json",
-            "label": "collection 1",
-            "viewingHint": "multi-part"
-          },
-          {
             "@id": "https://test-manifests.netlify.com/test-child-collection2.json",
             "@type": "sc:Collection",
             "label": "collection 2",
