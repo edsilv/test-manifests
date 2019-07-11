@@ -26,28 +26,6 @@
             }
         }
     ],
-    "manifests": [
-        {
-            "@type": "sc:Manifest",
-            "@id": "https://presentation.bdrc.io/v:bdr:V22084_I0886/manifest",
-            "label": [
-                {
-                    "@language": "en",
-                    "@value": "Manifest 1"
-                }
-            ]
-        },
-        {
-            "@type": "sc:Manifest",
-            "@id": "https://presentation.bdrc.io/v:bdr:V22084_I0887/manifest",
-            "label": [
-                {
-                    "@language": "en",
-                    "@value": "Manifest 2"
-                }
-            ]
-        }
-    ],
     "attribution": [
         {
             "@language": "en",
