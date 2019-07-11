@@ -10,7 +10,7 @@
     ],
     "collections": [
         {
-            "@id": "https://presentation.bdrc.io/collection/wio:bdr:W22084_S0001",
+            "@id": "http://edsilv.github.com/test-manifests/manifest-collection.json",
             "@type": "sc:Collection",
             "label": {
                 "@language": "en",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "@id": "https://presentation.bdrc.io/collection/wio:bdr:W22084_S0002",
+            "@id": "http://edsilv.github.com/test-manifests/manifest-collection.json",
             "@type": "sc:Collection",
             "label": {
                 "@language": "en",
