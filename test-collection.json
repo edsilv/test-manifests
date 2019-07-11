@@ -10,13 +10,13 @@
           {
             "@type": "sc:Collection",
             "@id": "https://test-manifests.netlify.com/test-child-collection1.json",
-            "label": "ཐུབ་བསྟན་ཆོས་འཁོར་གླིང་གི་བཅའ་ཡིག",
+            "label": "collection 1",
             "viewingHint": "multi-part"
           },
           {
             "@id": "https://test-manifests.netlify.com/test-child-collection2.json",
             "@type": "sc:Collection",
-            "label": "རྒྱ་ཆེན་བཀའ་མཛོད།（དཔལ་སྤུངས་པར་མ་འབྲུག་སྤ་གྲོའི་བསྐྱར་པར་མ།）",
+            "label": "collection 2",
             "viewingHint": "multi-part"
           }
     ],
