@@ -1,7 +1,7 @@
 
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://eroux.fr/tibcolldemo",
+    "@id": "https://test-manifests.netlify.com/test-collection.json",
     "@type": "sc:Collection",
     "label": [
       "Demo Collection"
