@@ -11,7 +11,7 @@
     "collections": [
         {
             "@id": "https://test-manifests.netlify.com/manifest.json",
-            "@type": "sc:Collection",
+            "@type": "sc:Manifest",
             "label": {
                 "@language": "en",
                 "@value": "child collection 1"
@@ -19,7 +19,7 @@
         },
         {
             "@id": "https://test-manifests.netlify.com/manifest.json",
-            "@type": "sc:Collection",
+            "@type": "sc:Manifest",
             "label": {
                 "@language": "en",
                 "@value": "child collection 2"
