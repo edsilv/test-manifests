@@ -1,0 +1,22 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://test-manifests.netlify.com/eroux-1.json",
+    "@type": "sc:Collection",
+    "label": [
+        {
+            "@language": "en",
+            "@value": "eroux 1"
+        }
+    ],
+    "manifests": [
+        {
+            "@id": "http://wellcomelibrary.org/iiif/b18035723/manifest",
+            "@type": "sc:Manifest",
+            "label": {
+                "@language": "en",
+                "@value": "Wunder der Vererbung"
+            }
+        }
+    ],
+    "viewingHint": "multi-part"
+}
