@@ -8,7 +8,7 @@
             "@value": "child collection"
         }
     ],
-    "collections": [
+    "members": [
         {
             "@id": "http://wellcomelibrary.org/iiif/b18035723/manifest",
             "@type": "sc:Manifest",
