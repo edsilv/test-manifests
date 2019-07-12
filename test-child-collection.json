@@ -10,19 +10,19 @@
     ],
     "collections": [
         {
-            "@id": "https://test-manifests.netlify.com/manifest.json",
+            "@id": "http://wellcomelibrary.org/iiif/b18035723/manifest",
             "@type": "sc:Manifest",
             "label": {
                 "@language": "en",
-                "@value": "child collection 1"
+                "@value": "Wunder der Vererbung"
             }
         },
         {
-            "@id": "https://test-manifests.netlify.com/manifest.json",
+            "@id": "http://wellcomelibrary.org/iiif/b18035978/manifest",
             "@type": "sc:Manifest",
             "label": {
                 "@language": "en",
-                "@value": "child collection 2"
+                "@value": "The Biocrats"
             }
         }
     ],
