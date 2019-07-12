@@ -1,0 +1,30 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://test-manifests.netlify.com/nested-collection-1.json",
+    "@type": "sc:Collection",
+    "label": [
+        {
+            "@language": "en",
+            "@value": "nested collection 1"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https://test-manifests.netlify.com/nested-collection-1-1.json",
+            "@type": "sc:Collection",
+            "label": {
+                "@language": "en",
+                "@value": "nested collection 1, 1"
+            }
+        },
+        {
+            "@id": "https://test-manifests.netlify.com/nested-collection-1-2.json",
+            "@type": "sc:Collection",
+            "label": {
+                "@language": "en",
+                "@value": "nested collection 1, 2"
+            }
+        }
+    ],
+    "viewingHint": "multi-part"
+}
