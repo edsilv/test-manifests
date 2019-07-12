@@ -10,7 +10,7 @@
       {
         "@id": "https://test-manifests.netlify.com/eroux-1.json",
         "@type": "sc:Collection",
-        "label": "eroux 1 1",
+        "label": "eroux 1",
         "viewingHint": "multi-part"
       },
       {
