@@ -1,0 +1,30 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://test-manifests.netlify.com/nested-collection-1-1-2.json",
+    "@type": "sc:Collection",
+    "label": [
+        {
+            "@language": "en",
+            "@value": "nested collection 1, 1, 2"
+        }
+    ],
+    "members": [
+        {
+            "@id": "http://wellcomelibrary.org/iiif/b18035723/manifest",
+            "@type": "sc:Manifest",
+            "label": {
+                "@language": "en",
+                "@value": "Wunder der Vererbung"
+            }
+        },
+        {
+            "@id": "http://wellcomelibrary.org/iiif/b18035978/manifest",
+            "@type": "sc:Manifest",
+            "label": {
+                "@language": "en",
+                "@value": "The Biocrats"
+            }
+        }
+    ],
+    "viewingHint": "multi-part"
+}
