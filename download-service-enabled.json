@@ -1,0 +1,1237 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545251.0x000002/manifest.json",
+	"@type": "sc:Manifest",
+	"attribution": "This material is in the Public Domain",
+	"description": "By authority of the High Commissioner for Australia, London, 1917-1919., ark:/81055/vdc_100022545677.0x000001",
+	"label": "Anzac bulletin.Number 24(1917:Jun.)",
+	"license": "http://creativecommons.org/publicdomain/mark/1.0/",
+	"metadata": [
+		{
+			"label": "Reference",
+			"value": "Digital Store P.P.4039.wdb."
+		},
+		{
+			"label": "Title",
+			"value": "Anzac bulletin.Number 24(1917:Jun.)"
+		},
+		{
+			"label": "Place",
+			"value": "London"
+		},
+		{
+			"label": "Date",
+			"value": "1917-1919"
+		},
+		{
+			"label": "Link",
+			"value": "<a href=\"http://explore.bl.uk/primo_library/libweb/action/dlDisplay.do?docId=BLL01016586310&vid=BLVU1&lang=en_US&institution=BL\" >Click here to see catalogue record</a>"
+		}
+	],
+	"related": [
+		{
+			"@id": "http://access.bl.uk/item/viewer/ark:/81055/vdc_100022545251.0x000002",
+			"format": "text/html",
+			"label": "View at the British Library"
+		}
+	],
+	"service": [
+		{
+			"@context": "http://universalviewer.io/context.json",
+			"@id": "http://wellcomelibrary.org/service/download/b18035723",
+			"profile": "http://universalviewer.io/download-extensions-profile",
+			"selectionEnabled": true
+		}
+	],
+	"sequences": [
+		{
+			"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000001",
+			"@type": "sc:Sequence",
+			"label": "Current Page Order",
+			"viewingDirection": "left-to-right",
+			"viewingHint": "paged",
+			"canvases": [
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000002",
+					"@type": "sc:Canvas",
+					"label": "1",
+					"width": 2503,
+					"height": 3375,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000001/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000001",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2503,
+									"height": 3375,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2503
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000002"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x000001",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000003",
+					"@type": "sc:Canvas",
+					"label": "2",
+					"width": 2451,
+					"height": 3363,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000002/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000002",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2451,
+									"height": 3363,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2451
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000003"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x000002",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000004",
+					"@type": "sc:Canvas",
+					"label": "3",
+					"width": 2503,
+					"height": 3375,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000003/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000003",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2503,
+									"height": 3375,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2503
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000004"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x000003",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000005",
+					"@type": "sc:Canvas",
+					"label": "4",
+					"width": 2451,
+					"height": 3363,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000004/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000004",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2451,
+									"height": 3363,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2451
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000005"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x000004",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000006",
+					"@type": "sc:Canvas",
+					"label": "5",
+					"width": 2503,
+					"height": 3375,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000005/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000005",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2503,
+									"height": 3375,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2503
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000006"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x000005",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000007",
+					"@type": "sc:Canvas",
+					"label": "6",
+					"width": 2451,
+					"height": 3363,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000006/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000006",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2451,
+									"height": 3363,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2451
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000007"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x000006",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000008",
+					"@type": "sc:Canvas",
+					"label": "7",
+					"width": 2503,
+					"height": 3375,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000007/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000007",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2503,
+									"height": 3375,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2503
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000008"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x000007",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000009",
+					"@type": "sc:Canvas",
+					"label": "8",
+					"width": 2451,
+					"height": 3363,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000008/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000008",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2451,
+									"height": 3363,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2451
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000009"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x000008",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x00000a",
+					"@type": "sc:Canvas",
+					"label": "9",
+					"width": 2503,
+					"height": 3375,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000009/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000009",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2503,
+									"height": 3375,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2503
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x00000a"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x000009",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x00000b",
+					"@type": "sc:Canvas",
+					"label": "10",
+					"width": 2451,
+					"height": 3363,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x00000a/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x00000a",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2451,
+									"height": 3363,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2451
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x00000b"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x00000a",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x00000c",
+					"@type": "sc:Canvas",
+					"label": "11",
+					"width": 2503,
+					"height": 3375,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x00000b/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x00000b",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2503,
+									"height": 3375,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2503
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x00000c"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x00000b",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x00000d",
+					"@type": "sc:Canvas",
+					"label": "12",
+					"width": 2451,
+					"height": 3363,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x00000c/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x00000c",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2451,
+									"height": 3363,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2451
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x00000d"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x00000c",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x00000e",
+					"@type": "sc:Canvas",
+					"label": "13",
+					"width": 2503,
+					"height": 3375,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x00000d/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x00000d",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2503,
+									"height": 3375,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2503
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x00000e"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x00000d",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x00000f",
+					"@type": "sc:Canvas",
+					"label": "14",
+					"width": 2451,
+					"height": 3363,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x00000e/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x00000e",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2451,
+									"height": 3363,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2451
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x00000f"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x00000e",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000010",
+					"@type": "sc:Canvas",
+					"label": "15",
+					"width": 2503,
+					"height": 3375,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x00000f/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x00000f",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2503,
+									"height": 3375,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2503
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000010"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x00000f",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000011",
+					"@type": "sc:Canvas",
+					"label": "16",
+					"width": 2451,
+					"height": 3363,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000010/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000010",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2451,
+									"height": 3363,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2451
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000011"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x000010",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000012",
+					"@type": "sc:Canvas",
+					"label": "17",
+					"width": 2503,
+					"height": 3375,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000011/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000011",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2503,
+									"height": 3375,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2503
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000012"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x000011",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000013",
+					"@type": "sc:Canvas",
+					"label": "18",
+					"width": 2451,
+					"height": 3363,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000012/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000012",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2451,
+									"height": 3363,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2451
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000013"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x000012",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000014",
+					"@type": "sc:Canvas",
+					"label": "19",
+					"width": 2503,
+					"height": 3375,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000013/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000013",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2503,
+									"height": 3375,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2503
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000014"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x000013",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				},
+				{
+					"@id": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000015",
+					"@type": "sc:Canvas",
+					"label": "20",
+					"width": 2451,
+					"height": 3363,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000014/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://api.bl.uk/image/iiif/ark:/81055/vdc_100022545676.0x000014",
+									"protocol": "http://iiif.io/api/image",
+									"width": 2451,
+									"height": 3363,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 2451
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader"
+											]
+										}
+									]
+								}
+							},
+							"on": "http://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022545254.0x000015"
+						}
+					],
+					"seeAlso": {
+						"@id": "http://api.bl.uk/ark:/81055/vdc_100022545253.0x000014",
+						"format": "text/xml",
+						"profile": "http://www.loc.gov/standards/alto/alto-v2.0.xsd",
+						"label": "METS-ALTO XML"
+					}
+				}
+			]
+		}
+	]
+}
