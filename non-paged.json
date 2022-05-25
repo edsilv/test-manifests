@@ -1803,6 +1803,7 @@
 	 	 	 	 	"label":"-",
 	 	 	 	 	"width":1988,
 	 	 	 	 	"height":2894,
+                    "viewingHint": "non-paged",
 	 	 	 	 	"images":[
 	 	 	 	 	 	{
 							"@type":"oa:Annotation",
@@ -2050,7 +2051,6 @@
 	 	 	 	 	"label":"-",
 	 	 	 	 	"width":5147,
 	 	 	 	 	"height":4778,
-                    "viewingHint": "non-paged",
 	 	 	 	 	"images":[
 	 	 	 	 	 	{
 							"@type":"oa:Annotation",
