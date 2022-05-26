@@ -2051,6 +2051,7 @@
 	 	 	 	 	"label":"-",
 	 	 	 	 	"width":5147,
 	 	 	 	 	"height":4778,
+                    "viewingHint": "non-paged",
 	 	 	 	 	"images":[
 	 	 	 	 	 	{
 							"@type":"oa:Annotation",
