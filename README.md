@@ -1,3 +1,3 @@
 # test-manifests
 
-http://edsilv.github.com/test-manifests/
+http://edsilv.github.io/test-manifests/
